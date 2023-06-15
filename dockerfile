@@ -1,4 +1,4 @@
-FROM python:3.9-alphine3.13
+FROM python:3.9-alpine3.13
 LABEL mantainer="losdinolol.com"
 
 ENV PYTHONUNBUFFERED 1 
